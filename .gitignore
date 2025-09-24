@@ -1,0 +1,5 @@
+﻿# arquivos grandes/temporários
+*.csv
+*.bak
+*.log
+*.tmp
