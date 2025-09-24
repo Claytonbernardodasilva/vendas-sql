@@ -1,5 +1,14 @@
-﻿# arquivos grandes/temporários
+﻿# dados e binários pesados
 *.csv
+*.zip
 *.bak
 *.log
 *.tmp
+
+# documentos que não precisam versionar
+*.pdf
+*.pptx
+*.docx
+
+# credenciais
+SQL Credentials.txt
